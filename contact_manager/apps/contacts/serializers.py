@@ -6,8 +6,10 @@ from apps.users.models import User
 
 
 class ContactSerializer(serializers.ModelSerializer):
-    owner = serializers.SlugRelatedField(queryset=User.objects.all(), slug_field='owner')
-
+    print(CurrentUserDefault())
+    owner = serializers.PrimaryKeyRelatedField(
+        queryset=CurrentUserDefault(),
+    )
 
     class Meta:
         model = Contact
