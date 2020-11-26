@@ -10,6 +10,9 @@ class ContactViewSet(viewsets.ModelViewSet):
     serializer_class = ContactSerializer
     permission_classes = [IsCreator]
 
+    def perform_create(self, serializer):
+        return serializer.save(owner = self.request.user)
+
     def get_permissions(self):
         if self.request.method == "GET":
             self.permission_classes = [IsCreator, permissions.IsAdminUser,]
