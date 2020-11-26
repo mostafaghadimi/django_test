@@ -23,26 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="981fbb2f-7f0f-43d7-a60a-2aab81a86e62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/contacts/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/contacts/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/contacts/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/contacts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/phones/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/contacts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contacts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_manager/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_manager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_manager/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_manager/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contact_manager/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/contacts/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/contacts/serializers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,9 +83,9 @@
       <screen x="59" y="27" width="1861" height="1053" />
     </state>
     <state x="685" y="354" width="598" height="396" key="#com.intellij.fileTypes.FileTypeChooser/59.27.1861.1053@59.27.1861.1053" timestamp="1606346784487" />
-    <state x="652" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606368325821">
+    <state x="652" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606369042588">
       <screen x="59" y="27" width="1861" height="1053" />
     </state>
-    <state x="652" y="257" width="672" height="678" key="search.everywhere.popup/59.27.1861.1053@59.27.1861.1053" timestamp="1606368325821" />
+    <state x="652" y="257" width="672" height="678" key="search.everywhere.popup/59.27.1861.1053@59.27.1861.1053" timestamp="1606369042588" />
   </component>
 </project>
